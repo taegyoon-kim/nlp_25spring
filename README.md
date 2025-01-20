@@ -45,18 +45,21 @@ Students will engage with articles, supplemented by the following textbooks (sec
   4) Pros/cons of the methods.
   5) Suggestions for improvement.
 - The presentation should last up to 15 minutes and will be followed by a 10-minute open discussion.
-- Non-presentings students are required to acively engage in the open disucssion.
+    - Non-presentings students are required to acively engage in the open disucssion.
+- Upload your presentation slides to the **applied_discussion_slides** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link)
 
 ## Methods Tutorial Details
 - Present and demonstrate the implementation of NLP techniques using real data (preferably your own data).
 - Walk the class through the script, explaining each step and ensuring everyone can follow.
-- Upload materials (scripts, datasets) prior to the presentation.
+- Upload yuor tutorial materials (scripts, datasets) prior to the presentation to the **tutorial materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link)
 
 ## Research Paper Details
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000–4,000 words, although longer papers are also accepted.
 - Papers and replication materials must be suitable for submission to a peer-reviewed journal.
-- The one-page proposals, which are ungraded, are due on April 18, and the final papers are due on June 20.
+- The one-page proposals, which are ungraded, are due on April 18, and the final papers are due on June 20
+- Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link)
+- Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link)
   
 ## Weekly Schedule
 
