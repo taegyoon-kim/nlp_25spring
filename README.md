@@ -103,11 +103,11 @@ Students will engage with articles, supplemented by the following textbooks (sec
 ### Week 8 (Apr 15): Mid-term Break
 - No class
 
-### Week 9 (Apr 22): One-on-One Meetings 
-- Schedule individual sessions with the instructor  
+### Week 9 (Apr 22): NLP with Korean [[Zoom link]](https://kaist.zoom.us/my/taegyoon)
+- Guest lecture by Byungjoon Kim 
 
-### Week 10 (Apr 29): NLP with Korean
-- Guest lecture by TBD
+### Week 10 (Apr 29): One-on-One Meetings 
+- Schedule individual sessions with the instructor  
 
 ### Week 11 (May 6): Children's Day
 - No class
