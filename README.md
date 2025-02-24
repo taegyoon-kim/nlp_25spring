@@ -126,12 +126,10 @@ The weekly schedule may be modified as needed to align with the course's overall
 ### Week 8 (Apr 15): Mid-term Break
 - No class
 
-### Week 9 (Apr 22): NLP with Korean + One-on-One Meetings I [[Zoom link]](https://kaist.zoom.us/my/taegyoon)
+### Week 9 (Apr 22): NLP with Korean [[Zoom link]](https://kaist.zoom.us/my/taegyoon)
 - (10:00-11:15am) Guest lecture by [Byungjoon Kim](https://byungjunkim.com) on NLP with Korean  
-- (11:20-1:00pm) One-on-on meetings (through Zoom) 
 
 ### Week 10 (Apr 29): One-on-One Meetings II
-- One-on-on meetings II 
 
 ### Week 11 (May 6): Children's Day
 - No class
