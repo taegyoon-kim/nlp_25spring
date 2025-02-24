@@ -40,7 +40,7 @@ Students are expected to complete the following tasks (the numbers in parenthese
 
 - **Methods Tutorial (15%)**: Students (in groups) will present a hands-on methods tutorial using their own (or publicly available) data.
     
-- **Research Paper (40%)**: Students will write a research paper (2,000–4,000 words).
+- **Research Paper (40%)**: Students will write a research paper (2,000-4,000 words).
 
 - **Exercises (15%)**: Take-home exercises will be assigned to strengthen understanding of concepts and enhance programming skills.
   
