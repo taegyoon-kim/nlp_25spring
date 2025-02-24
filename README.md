@@ -27,7 +27,7 @@ Students will engage with articles, supplemented by the following textbooks (sec
 
 ## Summary of Major Tasks
 
-Students are expected to complete the following tasks (the numbers in parentheses are grade values). Students should sign up for one slot both for \textbf{Application review discussion} (each discussion will be led by up to two students) and for \textbf{Method tutorial} (each tutorial will be presented by two students). Sign up on this \href{https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing}{Google Sheet}.
+Students are expected to complete the following tasks (the numbers in parentheses are grade values). Students should sign up for one slot both for **Application Review Discussion** and for **Methods Tutorial**. Sign up [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing).
 
 - **Attendance (10%)**: Attend all lectures unless excused by the instructor. Two points are deducted per absence. Late arrivals beyond 20 minutes count as absences. Students are assumed to have completed assigned readings and expected to actively participate in class.
 
