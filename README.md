@@ -44,11 +44,11 @@ Students are expected to complete the following tasks (the numbers in parenthese
 Students will be responsible for presenting a review of and leading a discussion on an applied article that employs NLP/text-as-data.
 
 - Present a review of an applied NLP/text-as-data article, including:
-  1) Research objectives/questions.
-  2) Language/text data used and collection methods.
-  3) NLP/text-as-data methods applied.
-  4) Pros/cons of the use of the methods.
-  5) Suggestions for improvement.
+    - Research objectives/questions.
+    - Language/text data used and collection methods.
+    - NLP/text-as-data methods applied.
+    - Pros/cons of the use of the methods.
+    - Suggestions for improvement.
 - The presentation should last up to 15 minutes and will be followed by a 10-minute open discussion led by the presenters.
     - Non-presentings students are required to acively engage in the open disucssion.
 - Upload your presentation slides to the **applied_discussion_slides** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
