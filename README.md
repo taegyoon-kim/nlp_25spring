@@ -68,7 +68,7 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000–-4,000 words, although longer papers are also accepted.
 - Papers must be suitable for submission to a peer-reviewed journal.
-- The one-page proposals, which are ungraded, are due on April 25, and the final papers are due on June 20.
+- The one-page proposals, which are ungraded, are due on April 18, and the final papers are due on June 20.
 - Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
 - Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
   
