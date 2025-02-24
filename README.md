@@ -67,7 +67,7 @@ Students (in groups) will be responsible for presenting a methods tutorial. The 
 - Walk the class through the script, explaining each step and ensuring everyone can follow.
 - The presentation should last up to 15 minutes.
 - 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **methods_tutorial** tab).
-- 📤 Prior to the presentation, upload yuor tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+- 📤 Prior to the presentation, upload your tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
 
 ## Research Paper Details
 
