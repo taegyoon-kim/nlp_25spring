@@ -74,42 +74,51 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
   
 ## Weekly Schedule
 
+The weekly schedule may be modified as needed to align with the course's overall progress and students' varying levels of comprehension. 1) The article marked with a cross (✝) is designated for application review. 2) Some courses will be held via Zoom, with students participating individually (not together in the classroom). 3) Be sure to bring your laptop for every class.
+
 ### Week 1 (Feb 25): Course Overview
   - Objectives, class components, weekly themes  
   - Install Python before the next class  
 
 ### Week 2 (Mar 4): Selecting and Cleaning Texts
-- Required reading:
-  - [GRS] Chp. 3 (Sections 3.1 and 3.2) and Chp. 4  
-  - [JM] Chp. 2 (Sections 2.1 and 2.2)  
+- Required reading
+  - [GRS] Sections 3.1 and 3.2 in Chp. 3 "Principles of Selection and Representation." 
+  - [GRS] Chp. 4 "Selecting Documents."
+  - [JM] Sections 2.1 and 2.2 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
 
 ### Week 3 (Mar 11): Representing and Comparing Texts  
-- Required reading:
-  - [GRS] Chp. 5 and Chp. 7  
-  - Denny & Spirling (2018)  
-- Optional reading: [GRS] Chp. 3 (Sections 3.3 and 3.4)  
+- Required reading
+  - [GRS] Chp. 5 "Bag of Words."
+  - [GRS] Chp. 7 "The Vector Space Model and Similarity Metrics."
+  - ✝ Denny, M.J. and Spirling, A., 2018. Text preprocessing for unsupervised learning: Why it matters, when it misleads, and what to do about it. Political Analysis, 26(2), pp.168-189.
+- Optional reading
+  - [GRS] Sections 3.3 and 3.4 in Chp. 3 "Principles of Selection and Representation." 
+  - [JM] Section 2.4 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
+  - Christopher, D., Raghavan, P. and Schütze, H., 2008. Scoring term weighting and the vector space model. Introduction to information retrieval, 100, pp.2-4.
 
 ### Week 4 (Mar 18): Supervised Learning Methods I  
-- Required reading:
-  - [GRS] Chps. 17–20  
-  - [JM] Chp. 5  
-  - Siegel et al. (2021)  
+- Required reading
+  - [GRS] Chp. 17 "An Overview of Supervised Classification"
+  - [GRS] Chp. 18 "Coding a Training Set"
+  - [GRS] Chp. 19 "Classifying Documents with Supervised Learning"
+  - [GRS] Chp. 20 "Checking Performance"
+  - [JM] Chp. 5 "Logistic Regression"
+  - ✝ Siegel, A.A., Nikitin, E., Barberá, P., Sterling, J., Pullen, B., Bonneau, R., Nagler, J. and Tucker, J.A., 2021. Trumping hate on Twitter? Online hate speech in the 2016 US election campaign and its aftermath. Quarterly Journal of Political Science, 16(1), pp.71-104.
+- Optional reading
+  - Piper, A., 2022. Biodiversity is not declining in fiction. Journal of Cultural Analytics, 7(3).
+  - [JM] Chp. 4 "Naive Bayes and Sentiment Classification"
 
 ### Week 5 (Mar 25): Supervised Learning Methods II  
-- Required reading:
-  - [JM] Chp. 7 (Sections 7.1–7.4, 7.6)  
-  - Bestvater & Monroe (2023)  
+- Required reading
+- Optional reading
 
 ### Week 6 (Apr 1): Embeddings  
-- Required reading:
-  - [GRS] Chp. 8  
-  - [JM] Chp. 6  
-  - Kozlowski et al. (2019)  
+- Required reading
+- Optional reading
 
 ### Week 7 (Apr 8): Topic Models
-- Required reading:
-  - [GRS] Chp. 13  
-  - Blei (2012)  
+- Required reading
+- Optional reading
 
 ### Week 8 (Apr 15): Mid-term Break
 - No class
@@ -124,27 +133,20 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
 - No class
 
 ### Week 12 (May 13): Neural NLP I  
-- Required reading:
-  - Smith (2019)  
-  - Visualizing Neural Machine Translation [[link]](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
-  - The Illustrated Transformer [[link]](https://jalammar.github.io/illustrated-transformer/)  
-  - BERTopic GitHub Page [[link]](https://maartengr.github.io/BERTopic/index.html)  
+- Required reading
+- Optional reading
 
 ### Week 13 (May 20): Neural NLP II  
-- Required reading:
-  - Illustrated BERT, ELMo, and Co. [[link]](https://jalammar.github.io/illustrated-bert/)  
-  - [JM] Chp. 11  
-  - Rogers et al. (2021)  
+- Required reading
+- Optional reading
 
 ### Week 14 (May 27): Large Language Models I  
-  - Required reading:
-    - [AG] Chapters TBD  
-    - Additional readings TBD  
+- Required reading
+- Optional reading
 
 ### Week 15 (Jun 3): Large Language Models II  
-- Required reading:
-  - [AG] Chapters TBD  
-  - Additional readings TBD  
+- Required reading
+- Optional reading
 
 ### Week 16 (Jun 10): Writing Research Paper
 - No class
