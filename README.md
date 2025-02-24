@@ -1,7 +1,7 @@
 # HSS 510 / DS 518: NLP for Humanities and Social Sciences
 
 **Spring 2025**  
-**Tue 10:00–1:00pm**  
+**Tue 10:00am–1:00pm**  
 **N4 1209-1, School of Digital Humanities and Computational Social Sciences**
 
 ## Instructor
@@ -66,7 +66,7 @@ Students (in groups) will be responsible for presenting a methods tutorial. The 
 
 ## Research Paper Details
 
-The research paper may either apply NLP/text-as-data to answer a substantive or theoretical question in your field of research or contribute methodologically to the literature on NLP/text-as-data. The objective is to use this as an opportunity to write (and eventually publish) a substantive research paper---not just a course paper for the sake of fulfilling a requirement!
+The research paper may either apply NLP/text-as-data to answer a substantive or theoretical question in your field of research or contribute methodologically to the literature on NLP/text-as-data. The objective is to use this as an opportunity to write (and eventually publish) a substantive research paper — not just a course paper for the sake of fulfilling a requirement!
 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000–-4,000 words, although longer papers are also accepted.
@@ -115,7 +115,7 @@ The weekly schedule may be modified as needed to align with the course's overall
 
 ### Week 5 (Mar 25): Supervised Learning Methods II  
 - Required reading
-  - [JM] Sections 7.1--7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
+  - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
   - Barberá, P., Boydstun, A.E., Linn, S., McMahon, R. and Nagler, J., 2021. Automated text classification of news articles: A practical guide. Political Analysis, 29(1), pp.19-42.
   - ✝ Bestvater, S.E. and Monroe, B.L., 2023. Sentiment is not stance: Target-aware opinion classification for political text analysis. Political Analysis, 31(2), pp.235-256.
 - Optional reading
@@ -167,7 +167,7 @@ The weekly schedule may be modified as needed to align with the course's overall
   - ✝ Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., Mekacher, A., Pearce, W., Zollo, F., Quattrociocchi, W. and Baronchelli, A., 2022. Growing polarization around climate change on social media. Nature Climate Change, 12(12), pp.1114-1121.
 - Optional reading
   - [JM] Chp. 10 ``Transformers and Pretrained Language Models"
-  - [JM] Sections 7.1--7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
+  - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
   - [JM] Chp. 9 "RNNs and LSTMs"
   - Rogers, A., Kovaleva, O. and Rumshisky, A., 2021. A primer in BERTology: What we know about how BERT works. Transactions of the Association for Computational Linguistics, 8, pp.842-866.
 
