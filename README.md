@@ -112,18 +112,18 @@ The weekly schedule may be modified as needed to align with the course's overall
   - [GRS] Chp. 18 "Coding a Training Set"
   - [GRS] Chp. 19 "Classifying Documents with Supervised Learning"
   - [GRS] Chp. 20 "Checking Performance"
-  - [JM] Chp. 5 "Logistic Regression"
   - ✝ Siegel, A.A., Nikitin, E., Barberá, P., Sterling, J., Pullen, B., Bonneau, R., Nagler, J. and Tucker, J.A., 2021. Trumping hate on Twitter? Online hate speech in the 2016 US election campaign and its aftermath. Quarterly Journal of Political Science, 16(1), pp.71-104.
 - Optional reading
   - Piper, A., 2022. Biodiversity is not declining in fiction. Journal of Cultural Analytics, 7(3).
-  - [JM] Chp. 4 "Naive Bayes and Sentiment Classification"
 
 ### Week 5 (Mar 25): Supervised Learning Methods II  
 - Required reading
+  - [JM] Chp. 5 "Logistic Regression"
   - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
   - Barberá, P., Boydstun, A.E., Linn, S., McMahon, R. and Nagler, J., 2021. Automated text classification of news articles: A practical guide. Political Analysis, 29(1), pp.19-42.
   - ✝ Bestvater, S.E. and Monroe, B.L., 2023. Sentiment is not stance: Target-aware opinion classification for political text analysis. Political Analysis, 31(2), pp.235-256.
 - Optional reading
+  - [JM] Chp. 4 "Naive Bayes and Sentiment Classification"
   - Arnold, C., Biedebach, L., Küpfer, A. and Neunhoeffer, M., 2023. The role of hyperparameters in machine learning models and how to tune them. Political Science Research and Methods, pp.1-8.
 
 ### Week 6 (Apr 1): Embeddings  
@@ -171,15 +171,15 @@ The weekly schedule may be modified as needed to align with the course's overall
   - Grootendorst, M., 2022. BERTopic: Neural topic modeling with a class-based TF-IDF procedure. arXiv preprint arXiv:2203.05794.
   - ✝ Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., Mekacher, A., Pearce, W., Zollo, F., Quattrociocchi, W. and Baronchelli, A., 2022. Growing polarization around climate change on social media. Nature Climate Change, 12(12), pp.1114-1121.
 - Optional reading
-  - [JM] Chp. 10 ``Transformers and Pretrained Language Models"
   - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
   - [JM] Chp. 9 "RNNs and LSTMs"
+  - [JM] Chp. 10 ``Transformers and Pretrained Language Models"
   - Rogers, A., Kovaleva, O. and Rumshisky, A., 2021. A primer in BERTology: What we know about how BERT works. Transactions of the Association for Computational Linguistics, 8, pp.842-866.
 
 ### Week 13 (May 20): Representation Models II 
 - Required reading
-  - [AG] Chp. 11 "Fine-tuning Generation Models"
-  - [JM] Chp. 11 Fine-tuning and Masked Language Models
+  - [AG] Chp. 11 "Fine-tuning Representation Models for Classification"
+  - [JM] Chp. 11 "Fine-tuning and Masked Language Models"
   - ✝ Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R. and Jurafsky, D., 2022. Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. Proceedings of the National Academy of Sciences, 119(31), p.e2120510119.
 
 - Optional reading
