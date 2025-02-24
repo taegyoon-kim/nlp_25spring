@@ -68,9 +68,12 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000–-4,000 words, although longer papers are also accepted.
 - Papers must be suitable for submission to a peer-reviewed journal.
-- The one-page proposals, which are ungraded, are due on April 18, and the final papers are due on June 20.
-- Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. And, sign up for a one-on-one meeting [here]([https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing)) (**one_on_one_meeting** tab).
-- Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+- As an intermediate step, submit a one-page proposal (yes, *one* page) by April 18
+  - These proposals are ungraded.
+  - Sign up for a one-on-one meeting to discuss your proposal [here]([https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link],(https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing)) (**one_on_one_meeting** tab).
+  - Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. 
+- The final papers are due on June 20.
+  - Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
   
 ## Weekly Schedule
 
