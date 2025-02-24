@@ -16,7 +16,7 @@ This course introduces students to the fundamental concepts and techniques of NL
 ## Prerequisites
 Basic programming skills in Python and familiarity with quantitative analysis are required
 
-## Text books
+## Readings
 Students will engage with articles, supplemented by the following textbooks (sections provided weekly):
 
 - **[GRS]** Grimmer, J., Roberts, M.E., & Stewart, B.M. (2022). *Text as Data: A New Framework for Machine Learning and the Social Sciences*. [Link](https://product.kyobobook.co.kr/detail/S000002751294)
@@ -130,7 +130,8 @@ The weekly schedule may be modified as needed to align with the course's overall
 ### Week 9 (Apr 22): NLP with Korean [[Zoom link]](https://kaist.zoom.us/my/taegyoon)
 - (10:00-11:15am) Guest lecture by [Byungjoon Kim](https://byungjunkim.com) on NLP with Korean  
 
-### Week 10 (Apr 29): One-on-One Meetings II
+### Week 10 (Apr 29): One-on-One Meetings 
+- One-on-one meetings will be based on one-page proposals and will occur on Apr 22, 23, and 30 as well as Apr 29.
 
 ### Week 11 (May 6): Children's Day
 - No class
