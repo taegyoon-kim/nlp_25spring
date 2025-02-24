@@ -89,6 +89,7 @@ The weekly schedule may be modified as needed to align with the course's overall
   - [GRS] Sections 3.1 and 3.2 in Chp. 3 "Principles of Selection and Representation." 
   - [GRS] Chp. 4 "Selecting Documents."
   - [JM] Sections 2.1 and 2.2 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
+  - [AG] pp. 37-56 in Chp. 2 "Tokens and Embeddings"
 
 ### Week 3 (Mar 11): Representing and Comparing Texts  
 - Required reading
@@ -124,6 +125,7 @@ The weekly schedule may be modified as needed to align with the course's overall
 - Required reading
   - [GRS] Chp. 8 "Distributed Representations of Words"
   - [JM] Chp. 6 ``Vector Semantics and Embeddings"
+  - [AG] pp. 57-71 in Chp. 2 "Tokens and Embeddings"
   - Rodriguez, P.L. and Spirling, A., 2022. Word embeddings: What works, what doesn’t, and how to tell the difference for applied research. The Journal of Politics, 84(1), pp.101-115.
   - ✝ Kozlowski, A.C., Taddy, M. and Evans, J.A., 2019. The geometry of culture: Analyzing the meanings of class through word embeddings. American Sociological Review, 84(5), pp.905-949.
 - Optional reading
