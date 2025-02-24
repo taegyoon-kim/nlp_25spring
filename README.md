@@ -33,9 +33,9 @@ Students are expected to complete the following tasks (the numbers in parenthese
 
 - **Application Review Discussion (20%)**: Students (in groups) will present and lead a discussion on an applied NLP/text-as-data article.
 
-- **Methods Tutorial (20%)**: Students (in groups) will present a hands-on methods tutorial using their own (or publicly available) data.
+- **Methods Tutorial (15%)**: Students (in groups) will present a hands-on methods tutorial using their own (or publicly available) data.
 
-- **Exercises (10%)**: Take-home exercises will be assigned to strengthen understanding of concepts and enhance programming skills.
+- **Exercises (15%)**: Take-home exercises will be assigned to strengthen understanding of concepts and enhance programming skills.
     
 - **Research Paper (40%)**: Students will write a research paper (2,000–4,000 words).
   
