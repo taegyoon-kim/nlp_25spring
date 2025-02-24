@@ -45,7 +45,7 @@ Students will be responsible for presenting a review of and leading a discussion
 
 - Present a review of an applied NLP/text-as-data article, including:
     - Research objectives/questions.
-    - Language/text data used and collection methods.
+    - Text data used and collection methods.
     - NLP/text-as-data methods applied.
     - Pros/cons of the use of the methods.
     - Suggestions for improvement.
