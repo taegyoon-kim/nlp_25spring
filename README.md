@@ -157,21 +157,48 @@ The weekly schedule may be modified as needed to align with the course's overall
 ### Week 11 (May 6): Children's Day
 - No class
 
-### Week 12 (May 13): Neural NLP I  
+### Week 12 (May 13): Representation Models I
 - Required reading
+  - Smith, N.A., 2019. Contextual word representations: A contextual introduction. arXiv preprint arXiv:1902.06006.
+  - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
+  - Grootendorst, M., 2022. BERTopic: Neural topic modeling with a class-based TF-IDF procedure. arXiv preprint arXiv:2203.05794.
+  - ✝ Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., Mekacher, A., Pearce, W., Zollo, F., Quattrociocchi, W. and Baronchelli, A., 2022. Growing polarization around climate change on social media. Nature Climate Change, 12(12), pp.1114-1121.
 - Optional reading
+  - [JM] Chp. 10 ``Transformers and Pretrained Language Models"
+  - [JM] Sections 7.1--7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
+  - [JM] Chp. 9 "RNNs and LSTMs"
+  - Rogers, A., Kovaleva, O. and Rumshisky, A., 2021. A primer in BERTology: What we know about how BERT works. Transactions of the Association for Computational Linguistics, 8, pp.842-866.
 
-### Week 13 (May 20): Neural NLP II  
+### Week 13 (May 20): Representation Models II 
 - Required reading
-- Optional reading
+  - [AG] Chp. 11 "Fine-tuning Generation Models"
+  - [JM] Chp. 11 Fine-tuning and Masked Language Models
+  - ✝ Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R. and Jurafsky, D., 2022. Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. Proceedings of the National Academy of Sciences, 119(31), p.e2120510119.
 
+- Optional reading
+  - Wang, Y. (2024). On finetuning large language models. Political Analysis, 32(3), 379-383.
+  - Laurer, M., Van Atteveldt, W., Casas, A. and Welbers, K., 2024. Widmann, T. and Wich, M., 2023. Creating and comparing dictionary, word embedding, and transformer-based models to measure discrete emotions in German political text. Political Analysis, 31(4), pp.626-641.
+  - Nguyen, T. D., Chen, Z., Carroll, N. G., Tran, A., Klein, C., & Xie, L. (2024, May). Measuring moral dimensions in social media with mformer. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 18, pp. 1134-1147).
+    
 ### Week 14 (May 27): Large Language Models I  
 - Required reading
+  - [AG] Chp. 1 "An Introduction to Large Language Models"
+  - [AG] Chp. 3 "Looking Inside Large Language Models"
+  - Törnberg, P. (2023). How to use Large Language Models for Text Analysis. arXiv preprint arXiv:2307.13106.
+  - Törnberg, P. (2024). Best practices for text annotation with large language models. arXiv preprint arXiv:2402.05129.
+  - ✝ Barrie, C., Palaiologou, E., & Törnberg, P. (2024). Prompt stability scoring for text annotation with large language models. arXiv preprint arXiv:2407.02039.
 - Optional reading
+  - Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. Behavior Research Methods, 56(8), 8214-8237.
 
 ### Week 15 (Jun 3): Large Language Models II  
 - Required reading
-- Optional reading
+  - [AG] Chp. 6 "Prompt Engineering"
+  - [AG] Chp. 12 "Fine-tuning Generation Models"
+  - Ornstein, J. T., Blasingame, E. N., & Truscott, J. S. (2023). How to train your stochastic parrot: Large language models for political texts. Political Science Research and Methods, 1-18.
+  - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., ... & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35, 24824-24837.
+  - Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., ... & Zhou, D. (2022). Self-consistency improves chain of thought reasoning in language models. arXiv preprint arXiv:2203.11171.
 
 ### Week 16 (Jun 10): Writing Research Paper
 - No class
