@@ -51,7 +51,7 @@ Students (in groups) will present a review of an applied article that employs NL
     - Suggestions for improvement.
 - The presentation should last up to 15 minutes and will be followed by a 10-minute open discussion led by the presenters.
 - Non-presentings students are required to acively engage in the open disucssion. <br>
-- 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (use the **applied_review_discussion** tab). 
+- 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **applied_review_discussion** tab). 
 - 📤 Prior to the presentation, upload your presentation slides to the **applied_review_discussion_slides** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
 
 ## Methods Tutorial Details
@@ -60,7 +60,7 @@ Students (in groups) will be responsible for presenting a methods tutorial. The 
 
 - Present and demonstrate the implementation of NLP/text-as-data techniques using real data (preferably your own data).
 - Walk the class through the script, explaining each step and ensuring everyone can follow.
-- 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (use the **methods_tutorial** tab).
+- 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **methods_tutorial** tab).
 - 📤 Prior to the presentation, upload yuor tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
 
 ## Research Paper Details
@@ -71,9 +71,9 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
 - The expected length is 2,000–-4,000 words, although longer papers are also accepted.
 - Papers must be suitable for submission to a peer-reviewed journal.
 - As an intermediate step, submit a one-page proposal (yes, *one* page) by April 18.
-- 🗓️ Sign up for a one-on-one meeting to discuss your proposal [here]([https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link],(https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing)) (**one_on_one_meeting** tab).
+- 🗓️ Sign up for a one-on-one meeting to discuss your proposal [here]([https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link],(https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing)) (the **one_on_one_meeting** tab).
 - 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. 
-📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by June 20.
+- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by June 20.
   
 ## Weekly Schedule
 
