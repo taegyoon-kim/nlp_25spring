@@ -27,7 +27,7 @@ Students will engage with articles, supplemented by the following textbooks (sec
 
 ## Summary of Major Tasks
 
-Students are expected to complete the following tasks (the numbers in parentheses are grade values). Students should sign up for one slot both for **Application Review Discussion** and for **Methods Tutorial**. Sign up [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (use **applied_review_discussion** and **methods_tutorial** tabs, respectively).
+Students are expected to complete the following tasks (the numbers in parentheses are grade values).
 
 - **Attendance (10%)**: Attend all lectures unless excused by the instructor. Two points are deducted per absence. Late arrivals beyond 20 minutes count as absences. Students are assumed to have completed assigned readings and expected to actively participate in class.
 
@@ -41,7 +41,7 @@ Students are expected to complete the following tasks (the numbers in parenthese
   
 ## Application Review Discussion Details
 
-Students will be responsible for presenting a review of and leading a discussion on an applied article that employs NLP/text-as-data.
+Students (in groups) will present a review of an applied article that employs NLP/text-as-data and lead a discussion on it. This exercise is designed to enhance their understanding not only of the techniques themselves but also of their principled applications in actual research.
 
 - Present a review of an applied NLP/text-as-data article, including:
     - Research objectives/questions.
@@ -51,15 +51,17 @@ Students will be responsible for presenting a review of and leading a discussion
     - Suggestions for improvement.
 - The presentation should last up to 15 minutes and will be followed by a 10-minute open discussion led by the presenters.
     - Non-presentings students are required to acively engage in the open disucssion.
-- Upload your presentation slides to the **applied_discussion_slides** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (use the **applied_review_discussion** tab).
+📤 Prior to the presentation, upload your presentation slides to the **applied_review_discussion_slides** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
 
 ## Methods Tutorial Details
 
-Students will be responsible for presenting a methods tutorial. The presentations serve a dual purpose: first, to provide non-presenting students with a hands-on implementation of the techniques covered in the previous week; and second, to offer presenting students an opportunity to apply and adapt those techniques in their own research.
+Students (in groups) will be responsible for presenting a methods tutorial. The presentations serve a dual purpose: first, to provide non-presenting students with a hands-on implementation of the techniques covered in the previous week; and second, to offer presenting students an opportunity to apply and adapt those techniques in their own research.
 
 - Present and demonstrate the implementation of NLP/text-as-data techniques using real data (preferably your own data).
 - Walk the class through the script, explaining each step and ensuring everyone can follow.
-- Upload yuor tutorial materials (scripts, datasets) prior to the presentation to the **tutorial materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (use the **methods_tutorial** tab).
+📤 Prior to the presentation, upload yuor tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
 
 ## Research Paper Details
 
@@ -68,12 +70,10 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000–-4,000 words, although longer papers are also accepted.
 - Papers must be suitable for submission to a peer-reviewed journal.
-- As an intermediate step, submit a one-page proposal (yes, *one* page) by April 18
-  - These proposals are ungraded.
-  - Sign up for a one-on-one meeting to discuss your proposal [here]([https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link],(https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing)) (**one_on_one_meeting** tab).
-  - Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. 
-- The final papers are due on June 20.
-  - Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+- As an intermediate step, submit a one-page proposal (yes, *one* page) by April 18.
+  🗓️ Sign up for a one-on-one meeting to discuss your proposal [here]([https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link],(https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing)) (**one_on_one_meeting** tab).
+  📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. 
+📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by June 20.
   
 ## Weekly Schedule
 
