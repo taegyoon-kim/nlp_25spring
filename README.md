@@ -11,7 +11,12 @@
 - **Webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
 
 ## Course Overview
-This course introduces students to the fundamental concepts and techniques of NLP/text-as-data, emphasizing the development of critical insights for its application in humanities and social sciences research. The course will blend theoretical understanding with practical, hands-on experience. Students will develop not only a mathematical/statistical intuition for key NLP/text-as-data approaches but also learn how to effectively implement these approaches in their own research. Each class will start with a lecture by the instructor, complemented by guided coding. The latter portion of the class will feature two activities. Students will first engage in a review of applied research. Then, they will lead hands-on methods tutorials. While prior experience in NLP/text-as-data is not required, students should possess basic programming skills in Python, along with some familiarity with quantitative analysis. By the end of this course, students will gain a comprehensive understanding of the potential of NLP/text-as-data in humanities and social sciences, mastering techniques to apply and refine NLP/text-as-data for their research.
+
+This course introduces students to the fundamental concepts and techniques of NLP/text-as-data, emphasizing the development of critical insights for its application in humanities and social sciences research. The course will blend theoretical understanding with practical, hands-on experience. Students will develop not only a mathematical/statistical intuition for key NLP/text-as-data approaches but also learn how to effectively implement these approaches in their own research. 
+
+Each class will start with a lecture by the instructor, complemented by guided coding. The latter portion of the class will feature two activities. Students will first engage in a review of applied research. Then, they will lead hands-on methods tutorials. 
+
+While prior experience in NLP/text-as-data is not required, students should possess basic programming skills in Python, along with some familiarity with quantitative analysis. By the end of this course, students will gain a comprehensive understanding of the potential of NLP/text-as-data in humanities and social sciences, mastering techniques to apply and refine NLP/text-as-data for their research.
 
 ## Prerequisites
 Basic programming skills in Python and familiarity with quantitative analysis are required
