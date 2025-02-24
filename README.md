@@ -114,15 +114,34 @@ The weekly schedule may be modified as needed to align with the course's overall
 
 ### Week 5 (Mar 25): Supervised Learning Methods II  
 - Required reading
+  - [JM] Sections 7.1--7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
+  - Barberá, P., Boydstun, A.E., Linn, S., McMahon, R. and Nagler, J., 2021. Automated text classification of news articles: A practical guide. Political Analysis, 29(1), pp.19-42.
+  - ✝ Bestvater, S.E. and Monroe, B.L., 2023. Sentiment is not stance: Target-aware opinion classification for political text analysis. Political Analysis, 31(2), pp.235-256.
 - Optional reading
+  - Arnold, C., Biedebach, L., Küpfer, A. and Neunhoeffer, M., 2023. The role of hyperparameters in machine learning models and how to tune them. Political Science Research and Methods, pp.1-8.
 
 ### Week 6 (Apr 1): Embeddings  
 - Required reading
+  - [GRS] Chp. 8 "Distributed Representations of Words"
+  - [JM] Chp. 6 ``Vector Semantics and Embeddings"
+  - Rodriguez, P.L. and Spirling, A., 2022. Word embeddings: What works, what doesn’t, and how to tell the difference for applied research. The Journal of Politics, 84(1), pp.101-115.
+  - ✝ Kozlowski, A.C., Taddy, M. and Evans, J.A., 2019. The geometry of culture: Analyzing the meanings of class through word embeddings. American Sociological Review, 84(5), pp.905-949.
 - Optional reading
-
+  - Soni, S., Klein, L.F. and Eisenstein, J., 2021. Abolitionist networks: Modeling language change in nineteenth-century activist newspapers. Journal of Cultural Analytics, 6(1).
+  - Caliskan, A., Bryson, J.J. and Narayanan, A., 2017. Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), pp.183-186.
+  - Osnabrügge, M., Hobolt, S.B. and Rodon, T., 2021. Playing to the gallery: Emotive rhetoric in parliaments. American Political Science Review, 115(3), pp.885-899.
+  - Garten, J., Hoover, J., Johnson, K.M., Boghrati, R., Iskiwitch, C. and Dehghani, M., 2018. Dictionaries and distributions: Combining expert knowledge and large scale textual data content analysis: Distributed dictionary representation. Behavior research methods, 50, pp.344-361.
+  - Pennington, J., Socher, R. and Manning, C.D., 2014, October. Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543).
+    
 ### Week 7 (Apr 8): Topic Models
 - Required reading
+  - [GRS] Chp. 13 ``Topic Models."
+  - Blei, D.M., 2012. Probabilistic topic models. Communications of the ACM, 55(4), pp.77-84.
+  - ✝ Barberá, P., Casas, A., Nagler, J., Egan, P.J., Bonneau, R., Jost, J.T. and Tucker, J.A., 2019. Who leads? Who follows? Measuring issue attention and agenda setting by legislators and the mass public using social media data. American Political Science Review, 113(4), pp.883-901.
 - Optional reading
+  - Maier, D., Waldherr, A., Miltner, P., Wiedemann, G., Niekler, A., Keinert, A., Pfetsch, B., Heyer, G., Reber, U., Häussler, T. and Schmid-Petri, H., 2021. Applying LDA topic modeling in communication research: Toward a valid and reliable methodology. In Computational methods for communication science (pp. 13-38). Routledge.
+  - Ying, L., Montgomery, J.M. and Stewart, B.M., 2022. Topics, concepts, and measurement: A crowdsourced procedure for validating topics as measures. Political Analysis, 30(4), pp.570-589.
+  - Roberts, M.E., Stewart, B.M., Tingley, D. and Airoldi, E.M., 2013, December. The structural topic model and applied social science. In Advances in neural information processing systems workshop on topic models: computation, application, and evaluation (Vol. 4, No. 1, pp. 1-20).
 
 ### Week 8 (Apr 15): Mid-term Break
 - No class
