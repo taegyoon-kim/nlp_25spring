@@ -118,11 +118,12 @@ The weekly schedule may be modified as needed to align with the course's overall
 ### Week 5 (Mar 25): Supervised Learning Methods II  
 - Required reading
   - [JM] Chp. 5 "Logistic Regression"
-  - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
   - Barberá, P., Boydstun, A.E., Linn, S., McMahon, R. and Nagler, J., 2021. Automated text classification of news articles: A practical guide. Political Analysis, 29(1), pp.19-42.
+  - Miller, B., Linder, F., & Mebane Jr, W. R. (2020). Active learning approaches for labeling text: review and assessment of the performance of active learning approaches. Political Analysis, 28(4), 532-551.
   - ✝ Bestvater, S.E. and Monroe, B.L., 2023. Sentiment is not stance: Target-aware opinion classification for political text analysis. Political Analysis, 31(2), pp.235-256.
 - Optional reading
   - [JM] Chp. 4 "Naive Bayes and Sentiment Classification"
+  - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
   - Arnold, C., Biedebach, L., Küpfer, A. and Neunhoeffer, M., 2023. The role of hyperparameters in machine learning models and how to tune them. Political Science Research and Methods, pp.1-8.
 
 ### Week 6 (Apr 1): Embeddings  
