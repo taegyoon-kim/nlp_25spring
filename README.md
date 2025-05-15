@@ -179,7 +179,7 @@ The weekly schedule may be modified as needed to align with the course's overall
 ### Week 13 (May 20): Representation Models II 
 - Required reading
   - [AG] Chp. 11 "Fine-tuning Representation Models for Classification"
-  - [JM] Chp. 11 "Fine-tuning and Masked Language Models"
+  - [JM] Chp. 11 "Masked Language Models"
   - ✝ Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R. and Jurafsky, D., 2022. Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. Proceedings of the National Academy of Sciences, 119(31), p.e2120510119.
 
 - Optional reading
