@@ -78,7 +78,7 @@ The research paper may either apply NLP/text-as-data to answer a substantive or 
 - As an intermediate step, submit a one-page proposal (yes, *one* page) by April 18.
 - 🗓️ Sign up for a one-on-one meeting to discuss your proposal [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **one_on_one_meeting** tab).
 - 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. 
-- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by June 20.
+- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by June 17.
   
 ## Weekly Schedule
 
